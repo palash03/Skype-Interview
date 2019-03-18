@@ -50,13 +50,7 @@
           </div>
           <script src="record.js" defer></script>
         </p>
-        <p class="mb-2">&copy; 2018-2019 Oracle</p>
-        <ul class="list-inline">
-          <li class="list-inline-item"><a href="#">Privacy</a></li>
-          <li class="list-inline-item"><a href="#">Terms</a></li>
-          <li class="list-inline-item"><a href="#">Support</a></li>
-        </ul>
-      </footer>
+       </footer>
     </div>
 
     <!-- Bootstrap core JavaScript
@@ -75,7 +69,6 @@
               var url = window.localStorage.getItem("myURL");
               var participant = window.localStorage.getItem("myParticipant");
               //var participant = window.localStorage.getItem("myParticipant  ");
-              //document.getElementById('myTable').innerHTML = "<tr><th scope="row">1</th><td>Software Engineer</td><td>Palash</td><td><a href = " +  getData.urls[0].url +  " class = "alert-link">Interview 1</a></td><td>URL1</td></tr>";
               var tBody = document.getElementById("myTable").getElementsByTagName("TBODY")[0];
 
               //Add Row.
