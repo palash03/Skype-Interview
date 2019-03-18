@@ -49,7 +49,6 @@
                   <option>testcase2@gmail.com</option>
                   <option>needemailid@gmail.com</option>
                   <option>getalife@gmail.com</option>
-                  <option>thisispalash@gmail.com</option>
                 </select>
               </div>
 
@@ -88,14 +87,6 @@
       </div>
       </div>
       <p id = "res"></p>
-      <footer class="my-5 pt-5 text-muted text-center text-small">
-        <p class="mb-1">&copy; 2018-2019 Oracle</p>
-        <ul class="list-inline">
-          <li class="list-inline-item"><a href="#">Privacy</a></li>
-          <li class="list-inline-item"><a href="#">Terms</a></li>
-          <li class="list-inline-item"><a href="#">Support</a></li>
-        </ul>
-      </footer>
     </div>
 
     <!-- Bootstrap core JavaScript
