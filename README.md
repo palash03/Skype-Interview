@@ -1,4 +1,4 @@
-# Skype-Interview
+# Skype-Interviews
 Create, customize and schedule interviews with Skype Interview's REST API 
 
 Preconditions:
